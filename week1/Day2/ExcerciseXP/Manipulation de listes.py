@@ -1,0 +1,13 @@
+basket =  ["Banana", "Apples", "Oranges", "Blueberries"]
+basket.remove("Banana")
+print(basket )
+basket.remove("Blueberries")
+print(basket)
+basket.append("kiwi")
+print(basket)
+basket.insert(0, "Apples")
+print (basket)
+count = basket.count ("Apples")
+print ("Le mot 'Apples' apparaît " , count , "fois ")
+basket.clear()
+print (basket)
