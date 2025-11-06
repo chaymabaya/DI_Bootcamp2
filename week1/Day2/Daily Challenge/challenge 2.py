@@ -7,3 +7,4 @@ for lettre in chaine :
         dernier_chaine = lettre
 
 print("Chaîne modifiée :", nouvelle_chaine)
+GITd
